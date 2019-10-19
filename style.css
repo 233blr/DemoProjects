@@ -24,8 +24,6 @@ div#messageArea {
 }
 table {
   border-spacing: 0px;
-  /* could use border-collapse instead */
-  /* border-collapse: collapse; */
   position: absolute;
   left: 173px;
   top: 98px;
