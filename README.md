@@ -1,3 +1,3 @@
 # DemoProjects
 demo
-https://233blr.github.io/DemoProjects/
+https://233blr.github.io/Battleship/
